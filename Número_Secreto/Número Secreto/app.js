@@ -1,13 +1,6 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
-<<<<<<< HEAD
 let numeroLimite = 200;
-=======
-let numeroLimite = 80;
->>>>>>> 254cae471edf2f03b54c719c11d4594b17319e78
-=======
-let numeroLimite = 130;
->>>>>>> parent of ce83fd1 (Diminuir o valor do número secreto)
+
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
